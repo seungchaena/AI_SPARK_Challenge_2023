@@ -23,4 +23,4 @@
 - 해당 실험에서는 중앙값을 기준으로 데이터 포인트간 거리를 계산하여 활용하였지만, 좀 더 응용될 수 있는 방안으로는 무게중심점을 사용해도 좋을 것 같다.
 
 ## For more datailed infromation about experiment
-Please read a Median_distance_based_KDE.ipynb in this repository.
+Please read a "Median_distance_based_KDE.ipynb" in this repository.
