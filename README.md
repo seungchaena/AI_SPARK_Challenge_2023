@@ -22,5 +22,5 @@
 - 해당 대회에서는 설비(type)별로 다른 특성을 갖는다는 특징을 갖고 있지만 이를 미쳐 확인하지 못한체 drop하고 분석을 진행하였다.
 - 해당 실험에서는 중앙값을 기준으로 데이터 포인트간 거리를 계산하여 활용하였지만, 좀 더 응용될 수 있는 방안으로는 무게중심점을 사용해도 좋을 것 같다.
 
-## For more datailed infromation about experiment
+## For more datailed infromatio
 Please read a "Median_distance_based_KDE.ipynb" in this repository.
