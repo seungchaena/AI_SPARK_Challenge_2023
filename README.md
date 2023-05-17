@@ -8,7 +8,7 @@
 - https://aifactory.space/competition/detail/2299
 
 ## Approach Method
-![전체적인 flow](https://github.com/Naseungchae/AI_SPARK_Challenge_2023/assets/90239125/f6a44b1c-f8fc-4925-a82f-41cc37f9a4d4)
+![image](https://github.com/Naseungchae/AI_SPARK_Challenge_2023/assets/90239125/f450c02b-29ce-4669-83e5-70728c315f33)
 1. 테스트 데이터로부터 대해 이상치(abnormal data)의 분포를 가정한다. 
 2. 가정에 대한 실험을 진행하기 위해 가정을 잘 반영할 수 있는 데이터의 형태로 두 데이터를 변환한다.  
 3. 거리로 재구성된 training data와 test data에 대한 전처리를 진행한다. 
