@@ -10,7 +10,7 @@
 ## Approach Method
 ![image](https://github.com/Naseungchae/AI_SPARK_Challenge_2023/assets/90239125/f450c02b-29ce-4669-83e5-70728c315f33)
 1. 테스트 데이터로부터 대해 이상치(abnormal data)의 분포를 가정한다. 
-2. 가정에 대한 실험을 진행하기 위해 가정을 잘 반영할 수 있는 데이터의 형태로 두 데이터를 변환한다.  
+2. 가정에 대한 실험을 진행하기 위해 가정을 잘 반영할 수 있는 데이터의 형태로 데이터를 변환한다.  
 3. 거리로 재구성된 training data와 test data에 대한 전처리를 진행한다. 
 4. Kernel Densitiy Estimaion을 진행한다.
 5. 모델을 학습하고 submission file을 제출한다.
