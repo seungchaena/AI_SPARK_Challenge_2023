@@ -5,7 +5,7 @@
 - 요약: training data(only normal data), test data(normal + abnormal data) 로 구성된 일반적인 비지도 학습기반의 anomaly detection문제.
 - 대회 기간: 2023/03/07 ~ 2023/04/21
 - 최종 점수(macro f1-score): 0.9538864792
-- https://aifactory.space/competition/detail/2299
+- [https://aifactory.space/competition/detail/2299](https://aifactory.space/competition/detail/2226)
 
 ## Approach Method
 ![image](https://github.com/Naseungchae/AI_SPARK_Challenge_2023/assets/90239125/f450c02b-29ce-4669-83e5-70728c315f33)
